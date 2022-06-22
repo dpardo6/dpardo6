@@ -1,6 +1,6 @@
 Hello👋
 
-Currently an M3 at Rennaisance School of Medicine. Graduated from GaTech in BME. 
+Currently an M3 at Rennaisance School of Medicine. Studied Biomedical Engineering at GaTech. 
 
 🌱 Currently interested/learning in how medicine and AI blend together in different ways.
 
