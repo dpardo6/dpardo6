@@ -1,6 +1,6 @@
 Hello👋
 
-Currently an M4 at Rennaisance School of Medicine. Studied Biomedical Engineering at GaTech. 
+4th year medical student at Rennaisance School of Medicine. Studied Biomedical Engineering at GaTech. 
 
 🌱 Currently interested/learning how medicine and technology can come together to improve the lives of the underserved community.
 
